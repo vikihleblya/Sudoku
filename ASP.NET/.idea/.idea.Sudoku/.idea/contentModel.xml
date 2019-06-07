@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Sudoku.Model" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Domain" t="Include">
+          <e p="SudokuTable.cs" t="Include" />
+          <e p="SudokuTableManager.cs" t="Include" />
+        </e>
+        <e p="Infrastructure" t="Include">
+          <e p="IEnumerableExtensions.cs" t="Include" />
+          <e p="SudokuTableDbEntity.cs" t="Include" />
+          <e p="SudokuTableRepository.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Sudoku.Model.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Sudoku.Model.csproj" t="IncludeRecursive" />
+        <e p="SudokuTableMapper.cs" t="Include" />
+      </e>
+      <e p="Sudoku.sln" t="IncludeFlat" />
+      <e p="Sudoku.Web" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="SudokuController.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="CheckResultsModel.cs" t="Include" />
+          <e p="RequestSudokuTableModel.cs" t="Include" />
+          <e p="ResponseSudokuTableModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Sudoku.Web.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Sudoku.Web.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_Sudoku.-842191026.00" t="ExcludeRecursive" />
+  </component>
+</project>

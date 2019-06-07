@@ -1,0 +1,6 @@
+module Pods_Sudoku {
+  umbrella header "Pods-Sudoku-umbrella.h"
+
+  export *
+  module * { export * }
+}

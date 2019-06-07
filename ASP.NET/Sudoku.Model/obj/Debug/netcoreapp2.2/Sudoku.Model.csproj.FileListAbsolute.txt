@@ -1,0 +1,9 @@
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Model/bin/Debug/netcoreapp2.2/Sudoku.Model.deps.json
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Model/bin/Debug/netcoreapp2.2/Sudoku.Model.dll
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Model/bin/Debug/netcoreapp2.2/Sudoku.Model.pdb
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Model/obj/Debug/netcoreapp2.2/Sudoku.Model.csprojAssemblyReference.cache
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Model/obj/Debug/netcoreapp2.2/Sudoku.Model.csproj.CoreCompileInputs.cache
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Model/obj/Debug/netcoreapp2.2/Sudoku.Model.AssemblyInfoInputs.cache
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Model/obj/Debug/netcoreapp2.2/Sudoku.Model.AssemblyInfo.cs
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Model/obj/Debug/netcoreapp2.2/Sudoku.Model.dll
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Model/obj/Debug/netcoreapp2.2/Sudoku.Model.pdb

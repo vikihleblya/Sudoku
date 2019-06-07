@@ -1,0 +1,17 @@
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Web/obj/Debug/netcoreapp2.2/Sudoku.Web.csprojAssemblyReference.cache
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Web/obj/Debug/netcoreapp2.2/Sudoku.Web.csproj.CoreCompileInputs.cache
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Web/obj/Debug/netcoreapp2.2/Sudoku.Web.RazorAssemblyInfo.cache
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Web/obj/Debug/netcoreapp2.2/Sudoku.Web.RazorAssemblyInfo.cs
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Web/obj/Debug/netcoreapp2.2/Sudoku.Web.AssemblyInfoInputs.cache
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Web/obj/Debug/netcoreapp2.2/Sudoku.Web.AssemblyInfo.cs
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Web/bin/Debug/netcoreapp2.2/Sudoku.Web.deps.json
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Web/bin/Debug/netcoreapp2.2/Sudoku.Web.runtimeconfig.json
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Web/bin/Debug/netcoreapp2.2/Sudoku.Web.runtimeconfig.dev.json
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Web/bin/Debug/netcoreapp2.2/Sudoku.Web.dll
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Web/bin/Debug/netcoreapp2.2/Sudoku.Web.pdb
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Web/bin/Debug/netcoreapp2.2/Sudoku.Model.dll
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Web/bin/Debug/netcoreapp2.2/Sudoku.Model.pdb
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Web/obj/Debug/netcoreapp2.2/Sudoku.Web.RazorTargetAssemblyInfo.cache
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Web/obj/Debug/netcoreapp2.2/Sudoku.Web.csproj.CopyComplete
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Web/obj/Debug/netcoreapp2.2/Sudoku.Web.dll
+/Users/grigviktor/Downloads/Sudoku/Sudoku.Web/obj/Debug/netcoreapp2.2/Sudoku.Web.pdb
